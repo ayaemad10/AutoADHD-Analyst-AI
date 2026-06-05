@@ -1,5 +1,4 @@
 # AutoADHD-Analyst-AI
-# AutoADHD-Analyst-AI
 
 AI-Based ADHD Analysis & Early Detection Support System
 
