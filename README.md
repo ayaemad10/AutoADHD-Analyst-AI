@@ -59,20 +59,7 @@ AutoADHD Analyst AI provides a structured collaborative system where teams can l
 # End-to-End System Workflow
 
 AutoADHD Analyst AI is designed as one integrated AI pipeline. The dashboard and future AI agents should call the central pipeline instead of duplicating business logic.
-flowchart TD
-    A[User Dataset Upload] --> B[Data Loading]
-    B --> C[Data Understanding]
-    C --> D[Data Profiling]
-    D --> E[EDA]
-    E --> F[Data Cleaning]
-    F --> G[Preprocessing]
-    G --> H[Feature Engineering]
-    H --> I[Model Training]
-    I --> J[Model Evaluation]
-    J --> K[Insight Generation]
-    K --> L[Report Generation]
-    L --> M[Dashboard Output]
-
+   
 Central pipeline file:
 
 ```python
