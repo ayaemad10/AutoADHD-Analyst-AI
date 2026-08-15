@@ -1,0 +1,8 @@
+{
+  "representation": "C: Selected Connectome + Metadata",
+  "model": "XGBoost_shallow",
+  "k": 500,
+  "use_pca": false,
+  "cv_roc_auc_mean": 0.8305424528301888,
+  "cv_roc_auc_std": 0.01833270290834914
+}

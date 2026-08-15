@@ -1,0 +1,2 @@
+n_train_subjects,n_test_subjects_unlabeled,n_connectome_edges,implied_n_rois,n_quantitative_features,n_categorical_features,adhd_positive,adhd_negative,adhd_positive_pct,class_imbalance_ratio,fcm_missing_values,fcm_constant_columns,duplicate_subjects
+1213,304,19900,200,18,9,831,382,68.51,2.18,False,0,0
