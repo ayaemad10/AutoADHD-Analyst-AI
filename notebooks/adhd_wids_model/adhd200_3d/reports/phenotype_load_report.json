@@ -1,0 +1,167 @@
+{
+  "files_found": [
+    "KKI_phenotypic.csv",
+    "NYU_phenotypic.csv",
+    "NeuroIMAGE_phenotypic.csv",
+    "OHSU_TestRelease_phenotypic.csv",
+    "OHSU_phenotypic.csv",
+    "Peking_1_TestRelease_phenotypic.csv",
+    "Peking_1_phenotypic.csv",
+    "Pittsburgh_phenotypic.csv"
+  ],
+  "files_loaded": [
+    "KKI_phenotypic.csv",
+    "NYU_phenotypic.csv",
+    "NeuroIMAGE_phenotypic.csv",
+    "OHSU_TestRelease_phenotypic.csv",
+    "OHSU_phenotypic.csv",
+    "Peking_1_TestRelease_phenotypic.csv",
+    "Peking_1_phenotypic.csv",
+    "Pittsburgh_phenotypic.csv"
+  ],
+  "files_skipped": {},
+  "per_site_counts": {
+    "KKI": {
+      "n_subjects": 83,
+      "n_control": 61,
+      "n_adhd": 22,
+      "dx_value_counts": {
+        "0": 61,
+        "1": 16,
+        "3": 5,
+        "2": 1
+      },
+      "tabular_cols_matched": [
+        "age",
+        "gender",
+        "handedness",
+        "full4_iq",
+        "full2_iq",
+        "verbal_iq",
+        "performance_iq",
+        "adhd_index",
+        "inattentive",
+        "hyper_impulsive",
+        "med_status"
+      ]
+    },
+    "NYU": {
+      "n_subjects": 222,
+      "n_control": 99,
+      "n_adhd": 123,
+      "dx_value_counts": {
+        "0": 99,
+        "1": 77,
+        "3": 44,
+        "2": 2
+      },
+      "tabular_cols_matched": [
+        "age",
+        "gender",
+        "handedness",
+        "full4_iq",
+        "full2_iq",
+        "verbal_iq",
+        "performance_iq",
+        "adhd_index",
+        "inattentive",
+        "hyper_impulsive",
+        "med_status"
+      ]
+    },
+    "NeuroIMAGE": {
+      "n_subjects": 48,
+      "n_control": 23,
+      "n_adhd": 25,
+      "dx_value_counts": {
+        "0": 23,
+        "1": 18,
+        "2": 6,
+        "3": 1
+      },
+      "tabular_cols_matched": [
+        "age",
+        "gender",
+        "handedness",
+        "full4_iq",
+        "full2_iq",
+        "verbal_iq",
+        "performance_iq",
+        "adhd_index",
+        "inattentive",
+        "hyper_impulsive",
+        "med_status"
+      ]
+    },
+    "OHSU": {
+      "n_subjects": 79,
+      "n_control": 42,
+      "n_adhd": 37,
+      "dx_value_counts": {
+        "0": 42,
+        "1": 23,
+        "3": 12,
+        "2": 2
+      },
+      "tabular_cols_matched": [
+        "age",
+        "gender",
+        "handedness",
+        "full4_iq",
+        "full2_iq",
+        "verbal_iq",
+        "performance_iq",
+        "adhd_index",
+        "inattentive",
+        "hyper_impulsive",
+        "med_status"
+      ]
+    },
+    "Peking_1": {
+      "n_subjects": 85,
+      "n_control": 61,
+      "n_adhd": 24,
+      "dx_value_counts": {
+        "0": 61,
+        "3": 17,
+        "1": 7
+      },
+      "tabular_cols_matched": [
+        "age",
+        "gender",
+        "handedness",
+        "full4_iq",
+        "full2_iq",
+        "verbal_iq",
+        "performance_iq",
+        "adhd_index",
+        "inattentive",
+        "hyper_impulsive",
+        "med_status"
+      ]
+    },
+    "Pittsburgh": {
+      "n_subjects": 89,
+      "n_control": 89,
+      "n_adhd": 0,
+      "dx_value_counts": {
+        "0": 89
+      },
+      "tabular_cols_matched": [
+        "age",
+        "gender",
+        "handedness",
+        "full4_iq",
+        "full2_iq",
+        "verbal_iq",
+        "performance_iq",
+        "adhd_index",
+        "inattentive",
+        "hyper_impulsive",
+        "med_status"
+      ]
+    }
+  },
+  "total_subjects": 691,
+  "duplicate_subjects": 0
+}
